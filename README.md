@@ -3,7 +3,7 @@
 **YourStore**   ,  *Vocal for Local*
 
 
-![Views](https://visitor-badge.glitch.me/badge?page_id=yourstore)
+![vistors](https://visitor-badge.glitch.me/badge?page_id=yourstore) 
 
 **Problem Statement:**
 
