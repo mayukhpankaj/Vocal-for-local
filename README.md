@@ -25,7 +25,6 @@ local users can browse through product list , sellers list.
 This will lead to sales growth and increased reach to consumers. 
 
 ![buyer_flow](https://user-images.githubusercontent.com/40158577/148128716-ddc59abf-2833-4bdd-9201-a2d78ebba5d5.png)
-
 ![seller_flow](https://user-images.githubusercontent.com/40158577/148128731-723b0755-0c34-402e-b702-a48987c8d675.png)
 
 
@@ -49,6 +48,7 @@ I made **Yourstore** on Android ( Kotlin ) and Firebase for backend and authenti
 **Application Link & Future Scope :**
 
 The application is in active development, some more features are needed to be added.  
+Thanx, Google Developer students club, BIT Mesra for the workshops. 
 
 **APK :**   [Try app](https://github.com/mayukhpankaj/Android-Study-Jams/tree/main/APK)
 
@@ -57,3 +57,12 @@ The application is in active development, some more features are needed to be ad
 
 
 https://user-images.githubusercontent.com/40158577/148118428-4040a037-0371-4272-92f8-7f68c344e45a.mp4
+
+
+
+Learning materials: 
+
+[developer.android.com](https://developer.android.com/courses/android-basics-kotlin/course)
+
+[udacity, Android basics](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
+
