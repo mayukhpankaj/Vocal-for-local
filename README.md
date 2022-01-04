@@ -17,7 +17,11 @@ Covid has impacted almost every business be it small or medium, and it's effect 
 
 **Proposed Solution :**
 
-This can be solved if there's a way to connect local buyers to local consumers. Yes there is, Android smartphones. there are over 3 billion active android users around the globe.
+This can be solved if there's a way to connect local buyers to local consumers. Yes there is, Android smartphones. there are over 3 billion active android users around the globe. I have worked on a Local e-commerce android applciation which connects local e-commerce to to potential consumers. Increasing Seller's branding, reach and sales. business can share there info like storename, location and contact details, List products and offers. local users can browse through product list , sellers list.  
+This will lead to sales growth and increased reach to consumers. 
+
+
+
 
 
 
