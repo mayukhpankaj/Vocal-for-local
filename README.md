@@ -45,8 +45,8 @@ I made **Yourstore** on Android ( Kotlin ) and Firebase for backend and authenti
 **Application Link & Future Scope :**
 
 The application is in active development, some more features are needed to be added.  
-<div></div>
-**APK : ** [Try app](https://github.com/mayukhpankaj/Android-Study-Jams/tree/main/APK)
+
+**APK : **  [Try app](https://github.com/mayukhpankaj/Android-Study-Jams/tree/main/APK)
 
 **Demo:**
 
