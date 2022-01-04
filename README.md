@@ -24,7 +24,10 @@ businesses can signup and  update info like store name, location and contact det
 local users can browse through product list , sellers list.  
 This will lead to sales growth and increased reach to consumers. 
 
-![yourstore](https://user-images.githubusercontent.com/40158577/148126316-1f6a6db1-5360-4103-8607-d911989c914b.png)
+![buyer_flow](https://user-images.githubusercontent.com/40158577/148128716-ddc59abf-2833-4bdd-9201-a2d78ebba5d5.png)
+
+![seller_flow](https://user-images.githubusercontent.com/40158577/148128731-723b0755-0c34-402e-b702-a48987c8d675.png)
+
 
 
 **Functionality & Concepts used :**
