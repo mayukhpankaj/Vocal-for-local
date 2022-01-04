@@ -37,7 +37,7 @@ I made **Yourstore** on Android ( Kotlin ) and Firebase for backend and authenti
  -  **Constraint Layout :**  activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.
  - **RecyclerView :** List of products queried from firebase is presented in recyclerview efficiently, loading  just the items on focus. Learned using Adapter, view holder, layout manager.
  - **LiveData:** [Glide](https://github.com/bumptech/glide) dependency is used for loading images from cloud store to imageviews.
- -  **Kotlin** Class and Data model used for firebase queries.
+ -  **Kotlin** Class and Data model used for firestore queries.
 
 
 
@@ -46,7 +46,7 @@ I made **Yourstore** on Android ( Kotlin ) and Firebase for backend and authenti
 
 The application is in active development, some more features are needed to be added.  
 
-**APK : **  [Try app](https://github.com/mayukhpankaj/Android-Study-Jams/tree/main/APK)
+**APK :**   [Try app](https://github.com/mayukhpankaj/Android-Study-Jams/tree/main/APK)
 
 **Demo:**
 
