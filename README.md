@@ -4,7 +4,6 @@
 
 
 ![Views](https://visitor-badge.glitch.me/badge?page_id=yourstore)
-<br>
 
 **Problem Statement:**
 
