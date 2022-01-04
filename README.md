@@ -32,7 +32,13 @@ This will lead to sales growth and increased reach to consumers.
 
 I made **Yourstore** on Android ( Kotlin ) and Firebase for backend and authentication Firestore for database, storing sellers & consumers profile data, Products data in collection. Cloud Storage for storing products image. 
 
-Authentication is implemented for Login, Signup with firebase function like SigninWithEmailAndPassword() and errors are catched and displayed with proper error.
+ - **Authentication** is implemented for Login, Signup with firebase function like SigninWithEmailAndPassword() and errors are catched and displayed with proper error.
+ - **Navigation :** Users can navigate across activities and fragments.
+ -  **Constraint Layout :**  activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.
+ - **RecyclerView :** List of products queried from firebase is presented in recyclerview efficiently, loading and showing just the items on focus. Learned using Adapter, view holder, layout manager.
+ - **LiveData:** Glide dependecies is used for loading images from cloud store.
+
+
 
 
 **Application Link & Future Scope :**
