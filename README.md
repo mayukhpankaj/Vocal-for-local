@@ -25,6 +25,8 @@ local users can browse through product list , sellers list.
 This will lead to sales growth and increased reach to consumers. 
 
 <br>
+![yourstore](https://user-images.githubusercontent.com/40158577/148126316-1f6a6db1-5360-4103-8607-d911989c914b.png)
+
 
 **Functionality & Concepts used :**
 
