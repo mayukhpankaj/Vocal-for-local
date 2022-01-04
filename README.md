@@ -17,20 +17,27 @@ Covid has impacted almost every business be it small or medium, and it's effect 
 
 **Proposed Solution :**
 
-This can be solved if there's a way to connect local buyers to local consumers. Yes there is, Android smartphones. there are over 3 billion active android users around the globe. I have worked on a Local e-commerce android applciation which connects local e-commerce to to potential consumers. Increasing Seller's branding, reach and sales. business can share there info like storename, location and contact details, List products and offers. local users can browse through product list , sellers list.  
+This can be solved if there's a way to connect local buyers to local consumers. Yes there is, Android smartphones. there are over 3 billion active android users around the globe. I have worked on a Local e-commerce android applciation which connects local e-commerce to to potential consumers. Increasing Seller's branding, reach and sales. 
+
+businesses can signup and  update info like store name, location and contact details. Then List products and share offers. 
+<br>
+local users can browse through product list , sellers list.  
 This will lead to sales growth and increased reach to consumers. 
 
+<br>
+
+**Functionality & Concepts used :**
+
+**Techstack**
+
+I made **Yourstore** on Android ( Kotlin ) and Firebase for backend and authentication Firestore for database, storing sellers & consumers profile data, Products data in collection. Cloud Storage for storing products image. 
+
+Authentication is implemented for Login, Signup with firebase function like SigninWithEmailAndPassword() and errors are catched and displayed with proper error.
+
+
+**Application Link & Future Scope :**
 
 
 
 
 https://user-images.githubusercontent.com/40158577/148118428-4040a037-0371-4272-92f8-7f68c344e45a.mp4
-
-
-
-
-
-**Functionality & Concepts used :**
-
-
-**Application Link & Future Scope :**
