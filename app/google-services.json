@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "878119560773",
+    "project_id": "rnbase-769bf",
+    "storage_bucket": "rnbase-769bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878119560773:android:bc38b993e312434385652c",
+        "android_client_info": {
+          "package_name": "com.mayukh.yourstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878119560773-h6ntq81nm8t15k1c3sfhconjheqjclsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIC60LCXFiDZhsr8xasP-Pu3Rhehuu__A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878119560773-h6ntq81nm8t15k1c3sfhconjheqjclsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878119560773:android:85e4bcfb5d87024f85652c",
+        "android_client_info": {
+          "package_name": "edu.bitmesra.mayukh.YourStore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878119560773-h6ntq81nm8t15k1c3sfhconjheqjclsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIC60LCXFiDZhsr8xasP-Pu3Rhehuu__A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878119560773-h6ntq81nm8t15k1c3sfhconjheqjclsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
